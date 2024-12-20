@@ -1,0 +1,30 @@
+/* 
+#8D0B41
+#D39D55
+#D6CFB4
+#FFF8E6 
+*/
+body{  
+    /* background-image: linear-gradient(90deg, white, lightgreen, darkblue); */
+    background-color: #62615c
+    ;
+}
+form{
+    width:50%;
+    margin:auto;
+    padding-top:190px;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 70px;
+background-color: #ffffff;
+}
+.top{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+}
+.bg{
+    padding:15px;
+/* border-radius: 20px; */
+    margin-top: 20px;
+}

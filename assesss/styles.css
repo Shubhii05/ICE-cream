@@ -1,0 +1,53 @@
+
+body{
+    background-color: black;
+}
+.btn{
+   
+}
+.navbar-brand {
+    font-family: "Ole", cursive;
+    font-weight: 400;
+    font-style: normal;
+    /* font-size: 100px; */
+    color: black;
+  }
+  
+  .logo {
+    padding: 5px;
+  }
+
+  #navbarsExample04 {
+    color: black;
+  }
+  .center{
+    
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+  }
+  .imag{
+padding-top: 5px;
+  }
+.xx{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+    justify-content: space-between;
+
+}
+.l{
+    display: flex;
+    flex-direction: row;
+    padding: 30px;
+    justify-content: space-evenly;
+}
+.k{
+    padding: 60px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
